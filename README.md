@@ -43,7 +43,7 @@
 [Vue](https://github.com/sudheerj/vuejs-interview-questions)|
 [React](https://github.com/sudheerj/reactjs-interview-questions)|
 [Spring Boot Swagger](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)|
-[Spring Cloud Hystrix Circuit Breaker](https://www.javainuse.com/spring/spring_hystrix_circuitbreaker)|
+[Spring Cloud Hystrix Circuit Breaker](https://howtodoinjava.com/spring-cloud/spring-hystrix-circuit-breaker-tutorial)|
 [Spring Boot Kafka](https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world)|
 [OAuth](https://www.javainuse.com/spring/spring-boot-oauth-introduction)|
 [Spring Boot OAuth2 Part 1](https://www.javainuse.com/spring/spring-boot-oauth-authorization-code)|
