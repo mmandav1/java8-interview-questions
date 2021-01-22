@@ -9,7 +9,7 @@
 
 | Links |
 | ---------
-[Java8 FAQ](https://github.com/learning-zone/java-interview-questions) 
+[Java8 FAQ](https://github.com/learning-zone/java-interview-questions) |
 [Lambda and Functional Interfaces](http://www.lambdafaq.org)|
 [Java8 features with Examples](https://www.journaldev.com/2389/java-8-features-with-examples)|
 [Stream API](https://www.netjstech.com/2017/09/java-stream-api-interview-questions.html)|
@@ -37,7 +37,18 @@
 [Splunk](https://mindmajix.com/splunk-interview-questions)|
 [Design Patterns](https://www.javatpoint.com/java-design-pattern-interview-questions)|
 [Mongo](https://medium.com/@vigowebs/frequently-asked-mongodb-interview-questions-and-answers-1f17c6b0950d)|
-
-
+[Python](https://www.edureka.co/blog/interview-questions/python-interview-questions)|
+[Django]https://data-flair.training/blogs/django-interview-questions)|
+[Javascript](https://github.com/sudheerj/javascript-interview-questions)|
+[Vue](https://github.com/sudheerj/vuejs-interview-questions)|
+[React](https://github.com/sudheerj/reactjs-interview-questions)|
+[Spring Boot Swagger](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)|
+[Spring Cloud Hystrix Circuit Breaker](https://www.javainuse.com/spring/spring_hystrix_circuitbreaker)|
+[Spring Boot Kafka](https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world)|
+[OAuth](https://www.javainuse.com/spring/spring-boot-oauth-introduction)|
+[Spring Boot OAuth2 Part 1](https://www.javainuse.com/spring/spring-boot-oauth-authorization-code)|
+[Spring Boot OAuth2 Part 2](https://www.javainuse.com/spring/spring-boot-oauth-access-token)|
+[Securing Backend APIS](https://dzone.com/articles/securing-apis-2)|
+[Securing Frontend](https://konstantinlebedev.com/security-for-frontend)
 **[⬆ Back to Top](#table-of-contents)**
 
