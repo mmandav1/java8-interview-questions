@@ -38,7 +38,7 @@
 [Design Patterns](https://www.javatpoint.com/java-design-pattern-interview-questions)|
 [Mongo](https://medium.com/@vigowebs/frequently-asked-mongodb-interview-questions-and-answers-1f17c6b0950d)|
 [Python](https://www.edureka.co/blog/interview-questions/python-interview-questions)|
-[Django]https://data-flair.training/blogs/django-interview-questions)|
+[Django](https://data-flair.training/blogs/django-interview-questions)|
 [Javascript](https://github.com/sudheerj/javascript-interview-questions)|
 [Vue](https://github.com/sudheerj/vuejs-interview-questions)|
 [React](https://github.com/sudheerj/reactjs-interview-questions)|
