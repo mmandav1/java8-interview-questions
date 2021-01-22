@@ -15,18 +15,18 @@ Good luck with your interview 😊
 
 | No. | Questions |
 |---- | ---------
-|1  | [Java8 FAQ](https://github.com/learning-zone/java-interview-questions) |
-|2  | [Lambda and Functional Interfaces](http://www.lambdafaq.org)|
-|3  | [Java8 features with Examples](https://www.journaldev.com/2389/java-8-features-with-examples)|
-|4  | [Stream API](https://www.netjstech.com/2017/09/java-stream-api-interview-questions.html)|
-|5  | [Core Java](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)|
-|6  | [Spring Boot](https://www.javadevjournal.com/spring-boot/spring-boot-interview-questions)|
-|7  | [Spring](https://www.journaldev.com/2696/spring-interview-questions-and-answers)|
-|8  | [Collections](
-https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions/)|
-|9  | [Multi Threading](https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html
+[Java8 FAQ](https://github.com/learning-zone/java-interview-questions) |
+[Lambda and Functional Interfaces](http://www.lambdafaq.org)|
+[Java8 features with Examples](https://www.journaldev.com/2389/java-8-features-with-examples)|
+[Stream API](https://www.netjstech.com/2017/09/java-stream-api-interview-questions.html)|
+[Core Java](https://www.journaldev.com/2366/core-java-interview-questions-and-answers)|
+[Spring Boot](https://www.javadevjournal.com/spring-boot/spring-boot-interview-questions)|
+[Spring](https://www.journaldev.com/2696/spring-interview-questions-and-answers)|
+[Collections](
+https://howtodoinjava.com/interview-questions/useful-java-collection-interview-questions)|
+[Multi Threading](https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html
 )|
-|10 | [Java11 Features](https://mkyong.com/java/what-is-new-in-java-11)|
+[Java11 Features](https://mkyong.com/java/what-is-new-in-java-11)|
 
 
 
