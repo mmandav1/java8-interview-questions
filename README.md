@@ -9,7 +9,7 @@
 
 | Links |
 | ---------
-[Java8 FAQ](https://github.com/learning-zone/java-interview-questions) |
+[Java8 FAQ](https://github.com/learning-zone/java-interview-questions) 
 [Lambda and Functional Interfaces](http://www.lambdafaq.org)|
 [Java8 features with Examples](https://www.journaldev.com/2389/java-8-features-with-examples)|
 [Stream API](https://www.netjstech.com/2017/09/java-stream-api-interview-questions.html)|
@@ -31,7 +31,7 @@
 [SQL](https://www.edureka.co/blog/interview-questions/sql-interview-questions)|
 [Cassandra](https://data-flair.training/blogs/cassandra-interview-questions/)|
 [GIT](https://career.guru99.com/top-40-interview-questions-on-git/)|
-[Drools](mindmajix.com/drools-interview-questions)|
+[Drools](https://mindmajix.com/drools-interview-questions)|
 [Data Structures-1](https://java2blog.com/data-structure-and-algorithm-interview-questions-in-java)|
 [Data Structures-Java](https://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html#axzz6kFGYp2sF)|
 [Splunk](https://mindmajix.com/splunk-interview-questions)|
