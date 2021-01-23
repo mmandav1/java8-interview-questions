@@ -1,4 +1,4 @@
-# Java8 Interview Questions & Answers
+# Java Interview Questions & Answers
 
 > Click :star:if you like the project. Pull Requests are highly appreciated. Follow me  for technical updates.
 
